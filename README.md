@@ -6,7 +6,7 @@
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winteryy&layout=compact&theme=dracula)
   
-  [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://winterry.tistory.com/")
+  [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://winterry.tistory.com/)
 
 </center>
 
