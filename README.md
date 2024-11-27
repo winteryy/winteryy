@@ -1,4 +1,6 @@
-# winteryy
+<div align="center">
+  <strong>winteryy's github</strong>
+</div>
 
 <p align="center">
   <strong>GitHub Stats</strong><br>
@@ -10,6 +12,10 @@
   <strong>Top Languages</strong><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winteryy&layout=compact&theme=dracula" alt="Top Langs" />
   <br><br>
-  <strong>Tistory Blog</strong><br>
-  <a href="https://winterry.tistory.com/"><img src="https://img.shields.io/badge/LINK-FF5A4A?style=flat&logoColor=white" alt="Tistory Badge" /></a>
+  <strong>Contact</strong><br>
+  <a href="https://winterry.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF5A4A?style=flat&logoColor=white" alt="Tistory Badge" /></a>
+  <a href="mailto:lhk9805@gmail.com">
+    <img
+      src="https://img.shields.io/badge/lhk9805@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
