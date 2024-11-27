@@ -7,7 +7,7 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winteryy&layout=compact&theme=dracula" alt="Top Langs" />
   <br>
-  <a href="https://winterry.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white" alt="Tistory Badge" /></a>
+  <a href="https://winterry.tistory.com/"><img src="https://img.shields.io/badge/Tistory%20Blog-FF5A4A?style=flat&logoColor=white" alt="Tistory Badge" /></a>
 </p>
 
   
